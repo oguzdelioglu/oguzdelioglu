@@ -6,7 +6,7 @@
 
 ![Oğuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzdelioglu&show_icons=true&theme=radical&text_color=fff&title_color=blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzdelioglu&layout=compact&bg_color=00000000&text_color=fff&title_color=blue))]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzdelioglu&layout=compact&bg_color=00000000&text_color=fff&title_color=blue))
 
 
 <!---
