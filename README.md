@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oguzdelioglu
-- 👀 I’m interested in ReactJS, NodeJS, MySQL, PHP, .NET
+- 👀 I’m interested in Swift, ReactJS, NodeJS, MySQL, PHP, .NET
 - 🌱 I’m currently learning Blockchain Solidity
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me oguzdelioglu@gmail.com
