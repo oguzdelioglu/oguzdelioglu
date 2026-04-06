@@ -1,0 +1,22 @@
+<svg width="1200" height="28" viewBox="0 0 1200 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .line { stroke: #00ff41; stroke-width: 2; filter: url(#glow); }
+      .txt { fill: #00ff41; font: 14px 'Fira Code', monospace; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="28" fill="#000000"/>
+  <line x1="20" y1="14" x2="420" y2="14" class="line"/>
+  <text x="600" y="18" text-anchor="middle" class="txt">:: MATRIX CHANNEL ACTIVE ::</text>
+  <line x1="780" y1="14" x2="1180" y2="14" class="line"/>
+
+  <animate attributeName="opacity" values="0.75;1;0.75" dur="2.2s" repeatCount="indefinite"/>
+</svg>

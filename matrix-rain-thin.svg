@@ -1,0 +1,27 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .r { font: 16px 'Fira Code', monospace; fill: #00ff41; filter: url(#glow); }
+    </style>
+  </defs>
+
+  <rect width="1200" height="80" fill="#000000"/>
+
+  <g class="r">
+    <text x="40" y="-10">010101010101</text>
+    <text x="180" y="-20">MATRIX</text>
+    <text x="330" y="-15">101010101010</text>
+    <text x="500" y="-22">BLOCKCHAIN</text>
+    <text x="720" y="-8">001100110011</text>
+    <text x="910" y="-18">CODE</text>
+    <text x="1060" y="-12">101011001010</text>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 100" dur="4.5s" repeatCount="indefinite"/>
+  </g>
+</svg>
