@@ -4,7 +4,7 @@
 
 # `> WAKE UP, OGUZ`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Software+Developer;Swift+%7C+ReactJS+%7C+NodeJS+%7C+MySQL;PHP+%7C+.NET+%7C+Blockchain;Currently+learning+Solidity;Open+for+Blockchain+Collaboration" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=700&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Product+Manager;Indie+Hacker;Researching.+Building.+Shipping.;Blockchain+%7C+Software+%7C+Curiosity" alt="Typing Animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,40:001a00,100:00ff41&section=header&text=ENTER%20THE%20MATRIX&fontColor=00ff41&fontSize=32&animation=fadeIn&fontAlignY=38" width="100%" />
 
@@ -17,7 +17,7 @@
 ```text
 [ SYSTEM BOOTING ]
 [ IDENTITY VERIFIED ]
-[ DEVELOPER MODE ENABLED ]
+[ PRODUCT MANAGER MODE ENABLED ]
 [ GREEN CHANNEL ESTABLISHED ]
 ```
 
@@ -32,19 +32,16 @@ $ whoami
 Oğuz Delioglu
 
 $ role
-Software Developer
+Product Manager
 
 $ status
 ONLINE
 
-$ focus
-Building modern, scalable, and efficient applications
+$ profile
+Curious indie hacker researching, building, and shipping across software and blockchain.
 
-$ current_learning
-Blockchain / Solidity
-
-$ open_for
-Blockchain collaborations
+$ mindset
+Obsessed with exploring ideas, turning signals into products, and pushing experiments into reality.
 
 $ reach_me
 oguzdelioglu@gmail.com
@@ -59,14 +56,18 @@ oguzdelioglu@gmail.com
 ```yaml
 name: Oğuz Delioglu
 username: oguzdelioglu
-role: Software Developer
+role: Product Manager
 status: ACTIVE
-location: CYBERSPACE
-currently_learning:
+archetype: Indie Hacker
+mission:
+  - Research
+  - Build
+  - Experiment
+  - Ship
+domains:
+  - Software
   - Blockchain
-  - Solidity
-open_to:
-  - Blockchain collaborations
+signal: Curious mind, relentless execution
 contact:
   email: oguzdelioglu@gmail.com
 ```
@@ -75,18 +76,16 @@ contact:
 
 ---
 
-## `> tech.stack`
+## `> profile.core`
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=00FF41&labelColor=000000)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41&labelColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41&labelColor=000000)
-![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00FF41&labelColor=000000)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=00FF41&labelColor=000000)
+![Product Manager](https://img.shields.io/badge/Product_Manager-000000?style=for-the-badge&logo=probot&logoColor=00FF41&labelColor=000000)
+![Indie Hacker](https://img.shields.io/badge/Indie_Hacker-000000?style=for-the-badge&logo=githubsponsors&logoColor=00FF41&labelColor=000000)
+![Software](https://img.shields.io/badge/Software-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)
 ![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=bitcoin&logoColor=00FF41&labelColor=000000)
+![Research](https://img.shields.io/badge/Research-000000?style=for-the-badge&logo=googlescholar&logoColor=00FF41&labelColor=000000)
+![Shipping](https://img.shields.io/badge/Shipping-000000?style=for-the-badge&logo=rocket&logoColor=00FF41&labelColor=000000)
 
 </div>
 
@@ -95,16 +94,14 @@ contact:
 ## `> boot.sequence`
 
 ```bash
-$ load_modules --developer oguzdelioglu
+$ load_modules --identity oguzdelioglu
 
-[ OK ] Swift module loaded
-[ OK ] ReactJS module loaded
-[ OK ] NodeJS runtime active
-[ OK ] MySQL connection established
-[ OK ] PHP engine initialized
-[ OK ] .NET framework synchronized
-[ OK ] Solidity learning protocol enabled
-[ OK ] Blockchain exploration mode activated
+[ OK ] Product strategy layer loaded
+[ OK ] Research engine initialized
+[ OK ] Indie hacker mode active
+[ OK ] Blockchain exploration protocol enabled
+[ OK ] Software builder channel synchronized
+[ OK ] Execution system online
 ```
 
 ---
@@ -113,15 +110,15 @@ $ load_modules --developer oguzdelioglu
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=850&lines=%5BONLINE%5D+Developer+mode+active;%5BSYNCING%5D+Learning+Solidity...;%5BREADY%5D+Open+for+Blockchain+Projects;%5BTRANSMISSION%5D+Follow+the+code." alt="Live Status Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=850&lines=%5BONLINE%5D+Product+Manager;%5BTHINKING%5D+Researching+signals...;%5BBUILDING%5D+Turning+ideas+into+products;%5BEXPLORING%5D+Software+and+blockchain." alt="Live Status Animation" />
 
 </div>
 
 ```text
 [STATUS]   ONLINE
-[MODE]     BUILDING THE FUTURE
-[TARGET]   BLOCKCHAIN ECOSYSTEM
-[STATE]    LEARNING / BUILDING / COLLABORATING
+[MODE]     RESEARCH / BUILD / SHIP
+[DOMAIN]   SOFTWARE + BLOCKCHAIN
+[STATE]    CURIOUS / EXPERIMENTAL / INDEPENDENT
 ```
 
 ---
@@ -153,10 +150,10 @@ $ load_modules --developer oguzdelioglu
 ```bash
 $ next_mission
 
-> Build useful systems
-> Learn deeper blockchain architecture
-> Collaborate on ambitious projects
-> Keep shipping
+> Research deeper
+> Build sharper
+> Experiment faster
+> Ship cooler things
 ```
 
 ---
@@ -176,9 +173,9 @@ $ next_mission
 <img src="./assets/matrix-rain-thin.svg" width="100%" alt="Matrix Rain Footer" />
 
 ```text
-> Connection established...
-> Welcome to the system.
-> Follow the code.
+> Curious mind detected...
+> Independent builder online.
+> Follow the signal.
 ```
 
 </div>
