@@ -123,25 +123,22 @@ $ load_modules --identity oguzdelioglu
 
 ---
 
-## `> github.analytics`
+## `> terminal.intel`
 
-<div align="center">
+```bash
+$ scan --current_state
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oguzdelioglu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41" alt="GitHub Stats" />
+> Researching signals
+> Building independently
+> Exploring blockchain systems
+> Shipping ideas into reality
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzdelioglu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" alt="Top Languages" />
+$ detect_mode
+INDIE_HACKER
 
-</div>
-
----
-
-## `> contribution.stream`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzdelioglu&bg_color=000000&color=00ff41&line=00ff41&point=7fff00&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-</div>
+$ mission_status
+ACTIVE
+```
 
 ---
 
