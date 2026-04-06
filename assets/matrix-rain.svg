@@ -25,17 +25,17 @@
 
   <g class="rain">
     <text x="40" y="-20">101101001010011010</text>
-    <text x="110" y="-80" class="dim">SYSTEM</text>
+    <text x="110" y="-80" class="dim">RESEARCH</text>
     <text x="185" y="-40">011010010101001011</text>
-    <text x="265" y="-110" class="dim">NODE</text>
+    <text x="265" y="-110" class="dim">BUILD</text>
     <text x="340" y="-55">010101101001011001</text>
-    <text x="420" y="-95" class="dim">CHAIN</text>
+    <text x="420" y="-95" class="dim">SHIP</text>
     <text x="500" y="-35">110100101010010110</text>
-    <text x="580" y="-75" class="dim">REACT</text>
+    <text x="580" y="-75" class="dim">BLOCKCHAIN</text>
     <text x="670" y="-50">010110100101101010</text>
-    <text x="760" y="-115" class="dim">SWIFT</text>
+    <text x="760" y="-115" class="dim">SOFTWARE</text>
     <text x="845" y="-25">101001011010010101</text>
-    <text x="935" y="-90" class="dim">MYSQL</text>
+    <text x="935" y="-90" class="dim">SIGNAL</text>
     <text x="1030" y="-45">011010010110100101</text>
 
     <animateTransform attributeName="transform" type="translate" from="0 0" to="0 280" dur="7s" repeatCount="indefinite"/>
@@ -43,17 +43,17 @@
 
   <g class="rain" opacity=".75">
     <text x="75" y="-120">010101010110</text>
-    <text x="215" y="-170">SOLIDITY</text>
+    <text x="215" y="-170">INDIE</text>
     <text x="355" y="-130">110010101011</text>
-    <text x="510" y="-180">PHP</text>
+    <text x="510" y="-180">HACKER</text>
     <text x="640" y="-145">001101010101</text>
-    <text x="790" y="-175">DOTNET</text>
+    <text x="790" y="-175">CURIOUS</text>
     <text x="930" y="-150">010101101010</text>
 
     <animateTransform attributeName="transform" type="translate" from="0 0" to="0 330" dur="10s" repeatCount="indefinite"/>
   </g>
 
   <text x="600" y="92" text-anchor="middle" class="title" filter="url(#glow)">WAKE UP, OGUZ</text>
-  <text x="600" y="122" text-anchor="middle" class="sub">ENTER THE MATRIX OF CODE</text>
-  <text x="600" y="148" text-anchor="middle" class="sub">SWIFT • REACTJS • NODEJS • MYSQL • PHP • .NET • SOLIDITY</text>
+  <text x="600" y="122" text-anchor="middle" class="sub">PRODUCT MANAGER • INDIE HACKER</text>
+  <text x="600" y="148" text-anchor="middle" class="sub">RESEARCH • BUILD • SHIP • SOFTWARE • BLOCKCHAIN</text>
 </svg>
