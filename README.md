@@ -2,8 +2,6 @@
 
 <img src="./assets/matrix-rain.svg" width="100%" alt="Matrix Rain Banner" />
 
-# `> WAKE UP, OGUZ`
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=700&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Product+Manager;Indie+Hacker;Researching.+Building.+Shipping.;Blockchain+%7C+Software+%7C+Curiosity" alt="Typing Animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,40:001a00,100:00ff41&section=header&text=ENTER%20THE%20MATRIX&fontColor=00ff41&fontSize=32&animation=fadeIn&fontAlignY=38" width="100%" />
